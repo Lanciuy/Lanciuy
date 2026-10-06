@@ -2,8 +2,7 @@
 
 <!-- ========================================================================= -->
 <!-- LANCIUY // AFTER HOURS // NOCTURNAL AUTONOMOUS ARCHITECT                   -->
-<!-- ========================================================================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0E,35:500000,70:A00014,100:E50914&height=320&section=header&text=LANCIUY&fontSize=100&animation=twinkling&fontAlignY=36&desc=A%20F%20T%20E%20R%20%20%20H%20O%20U%20R%20S%20%20%20%7C%20%20Autonomous%20AI%20Architect%20%26%20Creative%20Engineer&descAlignY=55&descAlign=50" alt="LANCIUY After Hours Banner" width="100%" />
+<img src="https://cdn.pfps.gg/banners/24388-951958-bmw.gif" alt="LANCIUY // AFTER HOURS BMW BANNER" width="100%" style="border-radius: 14px; border: 2px solid #8B0000; box-shadow: 0 16px 40px rgba(229, 9, 20, 0.35);" />
 
 <br/>
 
