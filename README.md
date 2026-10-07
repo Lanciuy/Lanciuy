@@ -5,7 +5,7 @@
 <!-- ========================================================================= -->
 <table align="center" width="100%" style="border-collapse: collapse; margin: 0; padding: 0;">
   <tr>
-    <td bgcolor="#08080C" style="border: 1px solid rgba(229, 9, 20, 0.65); border-radius: 14px; padding: 0; box-shadow: 0 20px 60px rgba(229, 9, 20, 0.4); overflow: hidden;">
+    <td bgcolor="#08080C" style="border: 1px solid rgba(229, 9, 20, 0.7); border-radius: 14px; padding: 0; box-shadow: 0 20px 60px rgba(229, 9, 20, 0.45); overflow: hidden;">
       <a href="https://github.com/Lanciuy">
         <img src="https://discordpfp.gg/api/assets/red-grin/preview?variant=full&adult=1&animated=1" alt="LANCIUY Red Grin Animated Cyber Banner" width="100%" style="display: block; width: 100%; border-radius: 13px;" />
       </a>
@@ -57,19 +57,16 @@
 </p>
 
 <!-- ========================================================================= -->
-<!-- 4. NOCTURNAL AUDIO DECK HUD (WITH ANIMATED EQUALIZER)                     -->
+<!-- 3. NOCTURNAL AUDIO DECK HUD (WITH ANIMATED EQUALIZER)                     -->
 <!-- ========================================================================= -->
 <table align="center" width="100%">
   <tr>
-    <td bgcolor="#0A080D" style="border: 1px solid rgba(229, 9, 20, 0.5); border-radius: 14px; padding: 14px 22px; box-shadow: 0 10px 30px rgba(229, 9, 20, 0.2);">
+    <td bgcolor="#0A080D" style="border: 1px solid rgba(229, 9, 20, 0.5); border-radius: 14px; padding: 12px 20px; box-shadow: 0 10px 30px rgba(229, 9, 20, 0.25);">
       <div style="display: flex; align-items: center; justify-content: space-between;">
         <span style="font-family: monospace; font-size: 11px; color: #FF8599; font-weight: bold; letter-spacing: 1px;">
-          🎧 NOCTURNAL AUDIO DECK // THE WEEKND &mdash; AFTER HOURS [06:01]
+          🎧 NOW PLAYING: THE WEEKND &mdash; AFTER HOURS [06:01]
         </span>
         <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-497f-bda1-4aa25d03093b.gif" width="120" height="20" alt="Audio Visualizer Equalizer" />
-      </div>
-      <div style="font-family: monospace; font-size: 10px; color: #8B949E; margin-top: 8px;">
-        SYNTH-NOIR &bull; 320 KBPS LOSSLESS DSP &bull; [⏮ PREV] &nbsp; <b>[⏸ PLAYING]</b> &nbsp; [⏭ NEXT] &nbsp; [🔁 REPEAT: ALL NIGHT] &nbsp; VOLUME: [████████████░░] 85%
       </div>
     </td>
   </tr>
@@ -85,10 +82,14 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 5. CINEMATIC AFTER HOURS TRILOGY MOODBOARD (3 ANIMATED GIFS)              -->
+<!-- 4. CINEMATIC AFTER HOURS TRILOGY MOODBOARD (3 ANIMATED GIFS)              -->
 <!-- ========================================================================= -->
 
-### 🎬 The Nocturnal Trilogy
+<div align="center">
+  <p style="font-family: monospace; font-size: 13px; font-weight: 800; color: #E50914; letter-spacing: 2px;">
+    🎬 THE NOCTURNAL TRILOGY
+  </p>
+</div>
 
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 12px;">
   <tr>
@@ -97,17 +98,19 @@
         ⚡ 01 // BLINDING LIGHTS
       </div>
       <img src="./docs/assets/the_weeknd_blinding_lights.gif" width="100%" alt="Blinding Lights Flow" style="border-radius: 8px; display: block;" />
-      <div style="font-family: monospace; font-size: 10px; color: #8B949E; margin-top: 8px;">
-        171 BPM &bull; Fast GPU Pipelines &bull; 12s NVENC
+      <div style="margin-top: 10px;">
+        <img src="https://img.shields.io/badge/TEMPO-171_BPM-E50914?style=flat-square" alt="171 BPM" />
+        <img src="https://img.shields.io/badge/SILICON-NVENC_60FPS-76B900?style=flat-square" alt="NVENC" />
       </div>
     </td>
-    <td width="34%" bgcolor="#110509" style="border: 2px solid #E50914; border-radius: 14px; padding: 10px; text-align: center; box-shadow: 0 12px 36px rgba(229, 9, 20, 0.3);">
+    <td width="34%" bgcolor="#110509" style="border: 2px solid #E50914; border-radius: 14px; padding: 10px; text-align: center; box-shadow: 0 14px 40px rgba(229, 9, 20, 0.35);">
       <div style="font-family: monospace; font-size: 11px; font-weight: 800; color: #E50914; margin-bottom: 8px;">
         🩸 02 // AFTER HOURS
       </div>
       <img src="./docs/assets/the_weeknd_after_hours.gif" width="100%" alt="After Hours Elevator" style="border-radius: 8px; display: block;" />
-      <div style="font-family: monospace; font-size: 10px; color: #FF8599; margin-top: 8px;">
-        D Minor &bull; 03:00 AM Sessions &bull; Dark Noir UI
+      <div style="margin-top: 10px;">
+        <img src="https://img.shields.io/badge/KEY-D_MINOR-8B0000?style=flat-square" alt="D Minor" />
+        <img src="https://img.shields.io/badge/SESSION-03:00_AM-white?style=flat-square" alt="03:00 AM" />
       </div>
     </td>
     <td width="33%" bgcolor="#08080C" style="border: 1px solid rgba(229, 9, 20, 0.4); border-radius: 14px; padding: 10px; text-align: center; box-shadow: 0 8px 24px rgba(0,0,0,0.6);">
@@ -115,8 +118,9 @@
         🎲 03 // HEARTLESS
       </div>
       <img src="./docs/assets/the_weeknd_heartless.gif" width="100%" alt="Heartless Neon Drive" style="border-radius: 8px; display: block;" />
-      <div style="font-family: monospace; font-size: 10px; color: #8B949E; margin-top: 8px;">
-        Cyber Streetwear &bull; Zero Slop &bull; Clean Arch
+      <div style="margin-top: 10px;">
+        <img src="https://img.shields.io/badge/VIBE-CYBER_STREET-FFA700?style=flat-square" alt="Streetwear" />
+        <img src="https://img.shields.io/badge/CODE-CLEAN_ARCH-00E5FF?style=flat-square" alt="Clean Arch" />
       </div>
     </td>
   </tr>
@@ -130,14 +134,14 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 6. FLAGSHIP SPOTLIGHT: CLIPGO 6.0 INTERACTIVE STUDIO BANNER               -->
+<!-- 5. FLAGSHIP SPOTLIGHT: CLIPGO 6.0 VISUAL STUDIO COCKPIT                    -->
 <!-- ========================================================================= -->
 
-### ⚡ Flagship Showcase: CLIPGO 6.0
-
-<p>
-  <b>Autonomous 9:16 Local AI Video Factory</b> &mdash; Converts horizontal podcasts, streams, and interviews into high-converting vertical shorts in under 15 seconds, executing 100% on local GPU silicon.
-</p>
+<div align="center">
+  <p style="font-family: monospace; font-size: 13px; font-weight: 800; color: #F56093; letter-spacing: 2px;">
+    ⚡ FLAGSHIP SPOTLIGHT // CLIPGO 6.0 STUDIO
+  </p>
+</div>
 
 <table align="center" width="100%">
   <tr>
@@ -166,11 +170,27 @@
 
 <br/>
 
-**Core Engineering Highlights:**
-- **Computer Vision Auto-Framing**: OpenCV YuNet DNN running at 128.4 FPS to compute continuous multi-speaker face bounds and dynamic smooth Bezier 9:16 re-centering.
-- **LibASS Kinetic Subtitles**: Vector typography burned directly into frames via hardware filtergraphs with millisecond-exact word highlight karaoke (zero rasterized font blur).
-- **Stealth Anti-Shadowban**: Removes bot encoding container metadata (`Lavf/Lavc`) and injects native QuickTime/MP42 headers with micro-tempo acoustic jitter to avoid duplicate content flags.
-- **NVENC Turbo Render**: Full 1080x1920 60 FPS export finished in ~12 seconds on local RTX silicon ($0 cloud cost).
+<!-- Visual Telemetry Metric HUD -->
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <td align="center" width="25%" bgcolor="#120609" style="border: 1px solid rgba(229, 9, 20, 0.5); border-radius: 12px; padding: 14px;">
+      <span style="font-family: monospace; font-size: 26px; font-weight: 900; color: #E50914;">12s</span><br/>
+      <span style="font-family: monospace; font-size: 10px; color: #FF8599; font-weight: bold;">NVENC 60 FPS EXPORT</span>
+    </td>
+    <td align="center" width="25%" bgcolor="#060E12" style="border: 1px solid rgba(0, 229, 255, 0.5); border-radius: 12px; padding: 14px;">
+      <span style="font-family: monospace; font-size: 26px; font-weight: 900; color: #00E5FF;">128.4</span><br/>
+      <span style="font-family: monospace; font-size: 10px; color: #00E5FF; font-weight: bold;">YUNET DNN FPS</span>
+    </td>
+    <td align="center" width="25%" bgcolor="#06120A" style="border: 1px solid rgba(0, 245, 160, 0.5); border-radius: 12px; padding: 14px;">
+      <span style="font-family: monospace; font-size: 26px; font-weight: 900; color: #00F5A0;">$0.00</span><br/>
+      <span style="font-family: monospace; font-size: 10px; color: #00F5A0; font-weight: bold;">CLOUD COST / MO</span>
+    </td>
+    <td align="center" width="25%" bgcolor="#120F06" style="border: 1px solid rgba(255, 167, 0, 0.5); border-radius: 12px; padding: 14px;">
+      <span style="font-family: monospace; font-size: 26px; font-weight: 900; color: #FFA700;">100%</span><br/>
+      <span style="font-family: monospace; font-size: 10px; color: #FFA700; font-weight: bold;">LOCAL GPU SILICON</span>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -180,90 +200,82 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 7. THE ACTIVE FLEET // BENTO GRID SHOWCASE                                -->
+<!-- 6. THE ACTIVE FLEET // BENTO GRID VISUAL SHOWCASE                         -->
 <!-- ========================================================================= -->
 
-### 🌌 The Active Fleet
+<div align="center">
+  <p style="font-family: monospace; font-size: 13px; font-weight: 800; color: #00E5FF; letter-spacing: 2px;">
+    🌌 THE SOVEREIGN FLEET
+  </p>
+</div>
 
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 12px;">
   <tr>
-    <td width="50%" bgcolor="#0A0A0E" style="border: 1px solid #1E222B; border-radius: 12px; padding: 16px; vertical-align: top;">
-      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px;">
-        <span style="font-family: monospace; font-size: 13px; font-weight: bold; color: #FFA700;">
+    <td width="50%" bgcolor="#0A0A0E" style="border: 1px solid #1E222B; border-radius: 14px; padding: 16px; vertical-align: top;">
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+        <span style="font-family: monospace; font-size: 15px; font-weight: 900; color: #FFA700;">
           🧾 BONSNAP
         </span>
-        <span style="font-family: monospace; font-size: 9px; color: #00F5A0; font-weight: bold;">
-          🟢 PRODUCTION
+        <span style="font-family: monospace; font-size: 9px; color: #00F5A0; font-weight: bold; background: rgba(0, 245, 160, 0.1); padding: 3px 8px; border-radius: 6px; border: 1px solid rgba(0, 245, 160, 0.3);">
+          ● ACTIVE
         </span>
       </div>
-      <p style="font-size: 12px; color: #8B949E; margin: 0 0 10px 0;">
-        Multimodal receipt vision OCR & AI financial mascot agent. Instant itemization and budget intelligence.
-      </p>
-      <div style="font-family: monospace; font-size: 10px; color: #C9D1D9;">
-        <code>Gemini Vision</code> &bull; <code>Groq Llama 3</code> &bull; <code>Supabase</code>
+      <div style="margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/AI-GEMINI_VISION-8E75C2?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/LLM-GROQ_LLAMA_3-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq" />
+        <img src="https://img.shields.io/badge/DB-SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
       </div>
-      <div style="margin-top: 10px;">
-        <a href="https://github.com/Lanciuy/BONSNAP" style="font-size: 11px; color: #FF8599; font-weight: bold; text-decoration: none;">Explore Repository &rarr;</a>
-      </div>
+      <a href="https://github.com/Lanciuy/BONSNAP" style="font-family: monospace; font-size: 11px; color: #FFA700; font-weight: bold; text-decoration: none;">EXPLORE REPOSITORY &rarr;</a>
     </td>
-    <td width="50%" bgcolor="#0A0A0E" style="border: 1px solid #1E222B; border-radius: 12px; padding: 16px; vertical-align: top;">
-      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px;">
-        <span style="font-family: monospace; font-size: 13px; font-weight: bold; color: #00E5FF;">
+    <td width="50%" bgcolor="#0A0A0E" style="border: 1px solid #1E222B; border-radius: 14px; padding: 16px; vertical-align: top;">
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+        <span style="font-family: monospace; font-size: 15px; font-weight: 900; color: #00E5FF;">
           🌌 CLINK
         </span>
-        <span style="font-family: monospace; font-size: 9px; color: #00F5A0; font-weight: bold;">
-          🟢 STEALTH
+        <span style="font-family: monospace; font-size: 9px; color: #00F5A0; font-weight: bold; background: rgba(0, 245, 160, 0.1); padding: 3px 8px; border-radius: 6px; border: 1px solid rgba(0, 245, 160, 0.3);">
+          ● STEALTH
         </span>
       </div>
-      <p style="font-size: 12px; color: #8B949E; margin: 0 0 10px 0;">
-        4-tier universal media extractor and Real-ESRGAN x4 AI super-resolution pipeline for crystal frame restoration.
-      </p>
-      <div style="font-family: monospace; font-size: 10px; color: #C9D1D9;">
-        <code>Playwright Stealth</code> &bull; <code>Real-ESRGAN x4</code> &bull; <code>yt-dlp</code>
+      <div style="margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/CRAWLER-PLAYWRIGHT_STEALTH-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+        <img src="https://img.shields.io/badge/AI_UPSCALER-REAL--ESRGAN_X4-FF007F?style=flat-square" alt="Real-ESRGAN" />
+        <img src="https://img.shields.io/badge/CORE-YT--DLP-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="yt-dlp" />
       </div>
-      <div style="margin-top: 10px;">
-        <a href="https://github.com/Lanciuy/CLINK" style="font-size: 11px; color: #00E5FF; font-weight: bold; text-decoration: none;">Explore Repository &rarr;</a>
-      </div>
+      <a href="https://github.com/Lanciuy/CLINK" style="font-family: monospace; font-size: 11px; color: #00E5FF; font-weight: bold; text-decoration: none;">EXPLORE REPOSITORY &rarr;</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" bgcolor="#0A0A0E" style="border: 1px solid #1E222B; border-radius: 12px; padding: 16px; vertical-align: top;">
-      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px;">
-        <span style="font-family: monospace; font-size: 13px; font-weight: bold; color: #E50914;">
+    <td width="50%" bgcolor="#0A0A0E" style="border: 1px solid #1E222B; border-radius: 14px; padding: 16px; vertical-align: top;">
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+        <span style="font-family: monospace; font-size: 15px; font-weight: 900; color: #E50914;">
           ⛩️ WARNET_SYSTEM
         </span>
-        <span style="font-family: monospace; font-size: 9px; color: #00F5A0; font-weight: bold;">
-          🟢 MONOREPO
+        <span style="font-family: monospace; font-size: 9px; color: #00F5A0; font-weight: bold; background: rgba(0, 245, 160, 0.1); padding: 3px 8px; border-radius: 6px; border: 1px solid rgba(0, 245, 160, 0.3);">
+          ● MONOREPO
         </span>
       </div>
-      <p style="font-size: 12px; color: #8B949E; margin: 0 0 10px 0;">
-        Next-gen esports internet cafe billing, member card tap, and Electron kiosk client lock with live telemetry.
-      </p>
-      <div style="font-family: monospace; font-size: 10px; color: #C9D1D9;">
-        <code>Fastify</code> &bull; <code>Electron</code> &bull; <code>Socket.io</code> &bull; <code>Node:SQLite</code>
+      <div style="margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/SERVER-FASTIFY_V5-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+        <img src="https://img.shields.io/badge/CLIENT-ELECTRON_KIOSK-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+        <img src="https://img.shields.io/badge/DB-NODE:SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </div>
-      <div style="margin-top: 10px;">
-        <a href="https://github.com/Lanciuy/WARNET_SYSTEM" style="font-size: 11px; color: #E50914; font-weight: bold; text-decoration: none;">Explore Repository &rarr;</a>
-      </div>
+      <a href="https://github.com/Lanciuy/WARNET_SYSTEM" style="font-family: monospace; font-size: 11px; color: #E50914; font-weight: bold; text-decoration: none;">EXPLORE REPOSITORY &rarr;</a>
     </td>
-    <td width="50%" bgcolor="#0A0A0E" style="border: 1px solid #1E222B; border-radius: 12px; padding: 16px; vertical-align: top;">
-      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px;">
-        <span style="font-family: monospace; font-size: 13px; font-weight: bold; color: #27C93F;">
+    <td width="50%" bgcolor="#0A0A0E" style="border: 1px solid #1E222B; border-radius: 14px; padding: 16px; vertical-align: top;">
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+        <span style="font-family: monospace; font-size: 15px; font-weight: 900; color: #27C93F;">
           🧠 MEMORY MCP
         </span>
-        <span style="font-family: monospace; font-size: 9px; color: #00F5A0; font-weight: bold;">
-          🟢 COGNITIVE
+        <span style="font-family: monospace; font-size: 9px; color: #00F5A0; font-weight: bold; background: rgba(0, 245, 160, 0.1); padding: 3px 8px; border-radius: 6px; border: 1px solid rgba(0, 245, 160, 0.3);">
+          ● COGNITIVE
         </span>
       </div>
-      <p style="font-size: 12px; color: #8B949E; margin: 0 0 10px 0;">
-        Persistent cognitive graph & architecture index server connecting LLM agents to cross-session project memory.
-      </p>
-      <div style="font-family: monospace; font-size: 10px; color: #C9D1D9;">
-        <code>Model Context Protocol</code> &bull; <code>Graph Theory</code> &bull; <code>Vector Index</code>
+      <div style="margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/PROTOCOL-MCP-10B981?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+        <img src="https://img.shields.io/badge/INDEX-GRAPH_THEORY-FFA700?style=flat-square" alt="Graph" />
+        <img src="https://img.shields.io/badge/VECTOR-EMBEDDING_SPACE-00E5FF?style=flat-square" alt="Vector" />
       </div>
-      <div style="margin-top: 10px;">
-        <a href="https://github.com/Lanciuy" style="font-size: 11px; color: #27C93F; font-weight: bold; text-decoration: none;">Explore Architecture &rarr;</a>
-      </div>
+      <a href="https://github.com/Lanciuy" style="font-family: monospace; font-size: 11px; color: #27C93F; font-weight: bold; text-decoration: none;">EXPLORE ARCHITECTURE &rarr;</a>
     </td>
   </tr>
 </table>
@@ -276,35 +288,35 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 8. WORKSTATION SPECS & SILICON ARSENAL                                    -->
+<!-- 7. HARDWARE & WORKSTATION SILICON (VISUAL BADGE ARSENAL)                  -->
 <!-- ========================================================================= -->
 
-### 🎛️ Workstation Specs & Silicon Arsenal
+<div align="center">
+  <p style="font-family: monospace; font-size: 13px; font-weight: 800; color: #76B900; letter-spacing: 2px;">
+    🎛️ WORKSTATION SILICON & ARSENAL
+  </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top" bgcolor="#0A0A0E" style="border: 1px solid #1E222B; border-radius: 12px; padding: 16px;">
-      <h4 style="color: #76B900; margin-top: 0; font-family: monospace;">🟢 Hardware & GPU Acceleration</h4>
-      <ul style="font-size: 13px; line-height: 1.7; color: #C9D1D9; padding-left: 20px;">
-        <li><b>GPU:</b> NVIDIA GeForce RTX 3050 Laptop (4096 MB VRAM)</li>
-        <li><b>Compute:</b> CUDA 12.4 &bull; cuDNN &bull; TensorRT FP16</li>
-        <li><b>Encoder:</b> Hardware NVENC h264/hevc (Preset: p1 high-perf)</li>
-        <li><b>Host RAM:</b> 16 GB DDR4 &bull; 8 CPU Cores</li>
-        <li><b>Governor:</b> Turbo Heavy Power Mode</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" bgcolor="#0A0A0E" style="border: 1px solid #1E222B; border-radius: 12px; padding: 16px;">
-      <h4 style="color: #00E5FF; margin-top: 0; font-family: monospace;">🔵 Software & DSP Engine</h4>
-      <ul style="font-size: 13px; line-height: 1.7; color: #C9D1D9; padding-left: 20px;">
-        <li><b>Media Engine:</b> FFmpeg 7.0 &bull; LibASS Vector Subtitles &bull; SoX</li>
-        <li><b>Computer Vision:</b> OpenCV YuNet 5-Point Landmark DNN</li>
-        <li><b>Speech:</b> Faster-Whisper (CUDA Float16) &bull; Silero VAD</li>
-        <li><b>Backend:</b> Python 3.12+ &bull; FastAPI Async &bull; Fastify &bull; SQLite</li>
-        <li><b>Frontend:</b> React 18 &bull; Vite &bull; Tailwind CSS &bull; Framer Motion</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+  <p>
+    <img src="https://img.shields.io/badge/NVIDIA_RTX_3050-4GB_VRAM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="RTX 3050" />
+    <img src="https://img.shields.io/badge/CUDA_12.4-FP16_ACCELERATION-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+    <img src="https://img.shields.io/badge/NVENC_60FPS-HARDWARE_ENCODER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVENC" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/PYTHON_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/TYPESCRIPT_5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/REACT_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/NODE.JS_24-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/FFMPEG_7.0-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+    <img src="https://img.shields.io/badge/LIBASS_VECTOR-E50914?style=for-the-badge" alt="LibASS" />
+    <img src="https://img.shields.io/badge/OPENCV_YUNET-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/FASTER_WHISPER-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
+  </p>
+</div>
 
 <br/>
 
@@ -314,7 +326,7 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 9. REALTIME GITHUB TELEMETRY & STREAK HUD                                 -->
+<!-- 8. REALTIME GITHUB TELEMETRY & STREAK HUD                                 -->
 <!-- ========================================================================= -->
 
 <div align="center">
@@ -362,28 +374,26 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 10. RUNNING CLIPGO LOCALLY                                                -->
+<!-- 9. RUNNING CLIPGO LOCALLY                                                 -->
 <!-- ========================================================================= -->
 
-### 🚀 Running CLIPGO Locally
+<div align="center">
+  <p style="font-family: monospace; font-size: 13px; font-weight: 800; color: #00F5A0; letter-spacing: 2px;">
+    🚀 LAUNCH COCKPIT
+  </p>
+</div>
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/Lanciuy/CLIPGO.git
-cd CLIPGO
-
-# 2. Launch the unified backend daemon (pre-warms AI & builds frontend)
-python main.py
-
-# 3. Access the studio cockpit in your browser
-# => http://127.0.0.1:8000
+git clone https://github.com/Lanciuy/CLIPGO.git && cd CLIPGO && python main.py
 ```
 
 <br/>
 
-<!-- ========================================================================= -->
-<!-- 11. FOOTER WAVE ANIMATED BANNER                                           -->
-<!-- ========================================================================= -->
+<!-- Neon Crimson Pulse Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+
+<br/>
+
 <div align="center">
 
 <p align="center">
@@ -393,12 +403,5 @@ python main.py
 </p>
 
 <sub>Engineered during the After Hours. All compute executed on local silicon. 🩸⚡</sub>
-<br/>
-<sub><i>"Blinded by the lights, illuminated by local silicon."</i></sub>
-
-<br/><br/>
-
-<!-- Neon Crimson Pulse Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
 </div>
