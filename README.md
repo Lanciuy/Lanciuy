@@ -37,7 +37,28 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 3. LARGE ASCII TYPOGRAPHY & MULTI-LAYER DYNAMIC TYPING STREAMS            -->
+<!-- 3. RED GRIN ANIMATED CYBER IDENTITY FRAME                                 -->
+<!-- ========================================================================= -->
+<table align="center" style="border-collapse: collapse; margin: 0 auto;">
+  <tr>
+    <td align="center" bgcolor="#08080C" style="border: 1px solid rgba(229, 9, 20, 0.55); border-radius: 16px; padding: 12px; box-shadow: 0 16px 50px rgba(229, 9, 20, 0.35);">
+      <div style="margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; padding: 0 4px;">
+        <span style="font-family: monospace; font-size: 11px; font-weight: 800; color: #FF8599; letter-spacing: 1.5px;">
+          👹 LANCIUY // RED GRIN MATRIX
+        </span>
+        <span style="font-family: monospace; font-size: 10px; color: #E50914; font-weight: bold;">
+          ● 65 FPS ANIMATED WEBP
+        </span>
+      </div>
+      <img src="https://discordpfp.gg/api/assets/red-grin/preview?variant=full&adult=1&animated=1" alt="LANCIUY Red Grin Animated Cyber Banner" width="474" style="border-radius: 10px; border: 1px solid rgba(229, 9, 20, 0.4); display: block;" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ========================================================================= -->
+<!-- 4. LARGE ASCII TYPOGRAPHY & MULTI-LAYER DYNAMIC TYPING STREAMS            -->
 <!-- ========================================================================= -->
 
 ```
