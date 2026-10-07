@@ -1,35 +1,14 @@
 <div align="center">
 
 <!-- ========================================================================= -->
-<!-- 1. CINEMATIC ANIMATED HEADER BANNER (TWINKLING WAVING NEON GRADIENT)       -->
+<!-- 1. RED GRIN ANIMATED CYBER HERO BANNER (100% FULL-BLEED WIDTH)            -->
 <!-- ========================================================================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080C,20:3A000A,45:E50914,75:8B0000,100:08080C&height=280&section=header&text=LANCIUY%20%E2%80%A2%20AFTER%20HOURS&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=SOVEREIGN%20AI%20%26%20SYSTEMS%20ARCHITECT%20%E2%80%A2%2003:00%20AM%20LOCAL%20GPU%20ENGINEERING&descAlignY=58&descColor=FF8599" alt="LANCIUY After Hours Cinematic Waving Banner" width="100%" />
-
-<br/>
-
-<!-- ========================================================================= -->
-<!-- 2. HERO COCKPIT: MACHINED DOUBLE-BEZEL BMW AFTER HOURS SHOWCASE (ANIMATED) -->
-<!-- ========================================================================= -->
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: collapse; margin: 0; padding: 0;">
   <tr>
-    <td bgcolor="#08080C" style="border: 1px solid rgba(229, 9, 20, 0.6); border-radius: 16px; padding: 0; box-shadow: 0 24px 70px rgba(229, 9, 20, 0.3); overflow: hidden;">
-      <div style="background: #14070B; padding: 12px 20px; border-bottom: 1px solid rgba(229, 9, 20, 0.4); display: flex; align-items: center; justify-content: space-between;">
-        <span style="font-family: monospace; font-size: 11px; font-weight: 800; color: #FF8599; letter-spacing: 1.5px;">
-          🏎️ LANCIUY // AFTER HOURS // NOCTURNAL COCKPIT
-        </span>
-        <span style="font-family: monospace; font-size: 10px; color: #00F5A0; font-weight: bold; display: flex; align-items: center; gap: 6px;">
-          ● LOCAL RTX SILICON ACTIVE
-        </span>
-      </div>
-      <img src="./docs/assets/bmw_after_hours.gif" alt="BMW After Hours Midnight Cruise" width="100%" style="display: block;" />
-      <div style="background: #0E0508; padding: 10px 20px; border-top: 1px solid rgba(229, 9, 20, 0.3); display: flex; align-items: center; justify-content: space-between;">
-        <span style="font-family: monospace; font-size: 10px; color: #8B949E;">
-          SESSION: 03:00 AM &bull; NVENC 60 FPS &bull; BITRATE: UNLOCKED
-        </span>
-        <span style="font-family: monospace; font-size: 10px; color: #FFD700; font-weight: bold;">
-          TRACK: THE WEEKND &mdash; AFTER HOURS [06:01]
-        </span>
-      </div>
+    <td bgcolor="#08080C" style="border: 1px solid rgba(229, 9, 20, 0.65); border-radius: 14px; padding: 0; box-shadow: 0 20px 60px rgba(229, 9, 20, 0.4); overflow: hidden;">
+      <a href="https://github.com/Lanciuy">
+        <img src="https://discordpfp.gg/api/assets/red-grin/preview?variant=full&adult=1&animated=1" alt="LANCIUY Red Grin Animated Cyber Banner" width="100%" style="display: block; width: 100%; border-radius: 13px;" />
+      </a>
     </td>
   </tr>
 </table>
@@ -37,28 +16,7 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 3. RED GRIN ANIMATED CYBER IDENTITY FRAME                                 -->
-<!-- ========================================================================= -->
-<table align="center" style="border-collapse: collapse; margin: 0 auto;">
-  <tr>
-    <td align="center" bgcolor="#08080C" style="border: 1px solid rgba(229, 9, 20, 0.55); border-radius: 16px; padding: 12px; box-shadow: 0 16px 50px rgba(229, 9, 20, 0.35);">
-      <div style="margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; padding: 0 4px;">
-        <span style="font-family: monospace; font-size: 11px; font-weight: 800; color: #FF8599; letter-spacing: 1.5px;">
-          👹 LANCIUY // RED GRIN MATRIX
-        </span>
-        <span style="font-family: monospace; font-size: 10px; color: #E50914; font-weight: bold;">
-          ● 65 FPS ANIMATED WEBP
-        </span>
-      </div>
-      <img src="https://discordpfp.gg/api/assets/red-grin/preview?variant=full&adult=1&animated=1" alt="LANCIUY Red Grin Animated Cyber Banner" width="474" style="border-radius: 10px; border: 1px solid rgba(229, 9, 20, 0.4); display: block;" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================================================= -->
-<!-- 4. LARGE ASCII TYPOGRAPHY & MULTI-LAYER DYNAMIC TYPING STREAMS            -->
+<!-- 2. LARGE ASCII TYPOGRAPHY & MULTI-LAYER DYNAMIC TYPING STREAMS            -->
 <!-- ========================================================================= -->
 
 ```
@@ -74,12 +32,12 @@
 <!-- Dynamic Typing Stream 01: Persona & Identity -->
 <p align="center">
   <a href="https://github.com/Lanciuy">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&pause=1000&color=E50914&center=true&vCenter=true&width=900&lines=LANCIUY+%2F%2F+SOVEREIGN+AI+%26+SYSTEMS+ARCHITECT;3%3A00+AM+NOCTURNAL+SESSIONS+%E2%80%94+LOCAL+GPU+ENGINEERING;BLINDED+BY+THE+LIGHTS+%E2%80%94+CUDA+FP16+%26+NVENC+60+FPS;ZERO+CLOUD+RENT+%E2%80%A2+100%25+LOCAL+SILICON+%E2%80%A2+CLEAN+ARCH" alt="Lanciuy Identity Stream" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&pause=1000&color=E50914&center=true&vCenter=true&width=760&lines=LANCIUY+%2F%2F+SOVEREIGN+AI+%26+SYSTEMS+ARCHITECT;3%3A00+AM+NOCTURNAL+SESSIONS+%E2%80%94+LOCAL+GPU+ENGINEERING;BLINDED+BY+THE+LIGHTS+%E2%80%94+CUDA+FP16+%26+NVENC+60+FPS;ZERO+CLOUD+RENT+%E2%80%A2+100%25+LOCAL+SILICON" alt="Lanciuy Identity Stream" />
   </a>
   <br/>
   <!-- Dynamic Typing Stream 02: Flagship Fleet in Motion -->
   <a href="https://github.com/Lanciuy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1200&color=FF8599&center=true&vCenter=true&width=860&lines=%E2%96%B6+CLIPGO+6.0+%E2%80%94+Autonomous+9%3A16+Video+Factory+%E2%80%A2+12s+NVENC+Export;%E2%96%B6+BONSNAP+%E2%80%94+Multimodal+Gemini+Vision+OCR+%26+Groq+Agent;%E2%96%B6+CLINK+%E2%80%94+4-Tier+Stealth+Downloader+%26+Real-ESRGAN+AI;%E2%96%B6+WARNET_SYSTEM+%E2%80%94+Next-Gen+Esports+NetCafe+Monorepo;%E2%96%B6+MEMORY+MCP+%E2%80%A2+Cognitive+Graph+%26+Architecture+Index" alt="Fleet Stream" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1200&color=FF8599&center=true&vCenter=true&width=760&lines=%E2%96%B6+CLIPGO+6.0+%E2%80%94+Autonomous+9%3A16+Video+Factory+%E2%80%A2+12s+NVENC;%E2%96%B6+BONSNAP+%E2%80%94+Multimodal+Gemini+Vision+OCR+%26+Groq+Agent;%E2%96%B6+CLINK+%E2%80%94+4-Tier+Stealth+Downloader+%26+Real-ESRGAN+AI;%E2%96%B6+WARNET_SYSTEM+%E2%80%94+Next-Gen+Esports+NetCafe+Monorepo;%E2%96%B6+MEMORY+MCP+%E2%80%A2+Cognitive+Graph+%E2%80%A2+Architecture+Index" alt="Fleet Stream" />
   </a>
 </p>
 
@@ -440,6 +398,7 @@ python main.py
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080C,40:8B0000,60:E50914,100:08080C&height=120&section=footer" alt="Footer Neon Wave" width="100%" />
+<!-- Neon Crimson Pulse Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
 </div>
