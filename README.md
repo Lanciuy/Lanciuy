@@ -48,9 +48,20 @@
 
 <img src="./assets/blinding_lights_tenor.gif" width="100%" alt="The Weeknd - Blinding Lights" />
 
-<sub>🎧 NOW PLAYING · THE WEEKND — BLINDING LIGHTS · 171 BPM · 03:00 AM SESSIONS</sub>
-
 <br/><br/>
+
+<!-- Nocturnal Cyber Audio Deck: Click anywhere to stream track -->
+<a href="https://youtu.be/8BexTnIR8lo" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/audio_player.svg" width="100%" alt="Play The Weeknd - After Hours Outro on YouTube" />
+</a>
+
+<p align="center">
+  <a href="https://youtu.be/8BexTnIR8lo"><img src="https://img.shields.io/badge/YOUTUBE-LISTEN_ON_REPEAT-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Play on YouTube" /></a>
+  <img src="https://img.shields.io/badge/TRACK-AFTER_HOURS_OUTRO-E50914?style=for-the-badge&logo=applemusic&logoColor=white" alt="Track" />
+  <img src="https://img.shields.io/badge/SYNTH-3%3A00_AM_DROP-76B900?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Drop" />
+</p>
+
+<br/>
 
 <!-- ============================== PERSONA TRIAD ============================== -->
 
