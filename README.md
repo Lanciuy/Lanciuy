@@ -10,7 +10,7 @@
 <img src="./assets/chain_divider.gif" width="100%" height="9" alt="" />
 
 <a href="https://github.com/Lanciuy">
-  <img src="./assets/lanciuy_banner.svg" width="100%" alt="LANCIUY" />
+  <img src="./assets/lanciuy_studio_banner.svg" width="100%" alt="LANCIUY" />
 </a>
 
 <!--
@@ -33,10 +33,10 @@
 
 <br/><br/>
 
-<a href="https://github.com/Lanciuy"><img src="https://img.shields.io/badge/GITHUB-LANCIUY-14070B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Lanciuy" /></a>
-<img src="https://komarev.com/ghpvc/?username=Lanciuy&label=NIGHT_DRIVE_PULSE&color=E50914&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/badge/HARDWARE-RTX_3050_%E2%80%A2_CUDA_12.4-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Hardware" />
-<img src="https://img.shields.io/badge/PIPELINE-NVENC_60FPS_%E2%80%A2_FP16-E50914?style=for-the-badge&logo=fastapi&logoColor=white" alt="Pipeline" />
+<a href="https://github.com/Lanciuy"><img src="https://img.shields.io/badge/GITHUB-LANCIUY-0D0509?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000" alt="GitHub Lanciuy" /></a>
+<img src="https://img.shields.io/badge/HARDWARE-RTX_3050_%E2%80%A2_CUDA_12.4-0D0509?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=A3001E" alt="Hardware" />
+<img src="https://img.shields.io/badge/PIPELINE-NVENC_60FPS_%E2%80%A2_FP16-0D0509?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=C40026" alt="Pipeline" />
+<img src="https://img.shields.io/badge/WORKLOAD-NOCTURNAL_DEV-0D0509?style=for-the-badge&logo=probot&logoColor=white&labelColor=E50914" alt="Workload" />
 
 <br/><br/>
 
