@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 866 292" width="866" height="292" role="img" aria-label="LANCIUY // After Hours Edition">
+  <defs>
+    <linearGradient id="crimson" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B0000"/>
+      <stop offset="0.45" stop-color="#E50914"/>
+      <stop offset="1" stop-color="#FF8599"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" fill-opacity="0.35"/>
+    </pattern>
+    <filter id="glow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="logoClip"><rect x="48" y="44" width="28" height="26"/><rect x="174" y="44" width="70" height="26"/><rect x="272" y="44" width="42" height="26"/><rect x="370" y="44" width="28" height="26"/><rect x="426" y="44" width="84" height="26"/><rect x="524" y="44" width="28" height="26"/><rect x="566" y="44" width="28" height="26"/><rect x="650" y="44" width="28" height="26"/><rect x="692" y="44" width="28" height="26"/><rect x="776" y="44" width="28" height="26"/><rect x="48" y="70" width="28" height="26"/><rect x="160" y="70" width="28" height="26"/><rect x="230" y="70" width="28" height="26"/><rect x="272" y="70" width="56" height="26"/><rect x="370" y="70" width="28" height="26"/><rect x="412" y="70" width="28" height="26"/><rect x="524" y="70" width="28" height="26"/><rect x="566" y="70" width="28" height="26"/><rect x="650" y="70" width="28" height="26"/><rect x="706" y="70" width="28" height="26"/><rect x="762" y="70" width="28" height="26"/><rect x="48" y="96" width="28" height="26"/><rect x="160" y="96" width="98" height="26"/><rect x="272" y="96" width="28" height="26"/><rect x="314" y="96" width="28" height="26"/><rect x="370" y="96" width="28" height="26"/><rect x="412" y="96" width="28" height="26"/><rect x="524" y="96" width="28" height="26"/><rect x="566" y="96" width="28" height="26"/><rect x="650" y="96" width="28" height="26"/><rect x="720" y="96" width="56" height="26"/><rect x="48" y="122" width="28" height="26"/><rect x="160" y="122" width="28" height="26"/><rect x="230" y="122" width="28" height="26"/><rect x="272" y="122" width="28" height="26"/><rect x="328" y="122" width="28" height="26"/><rect x="370" y="122" width="28" height="26"/><rect x="412" y="122" width="28" height="26"/><rect x="524" y="122" width="28" height="26"/><rect x="566" y="122" width="28" height="26"/><rect x="650" y="122" width="28" height="26"/><rect x="734" y="122" width="28" height="26"/><rect x="48" y="148" width="98" height="26"/><rect x="160" y="148" width="28" height="26"/><rect x="230" y="148" width="28" height="26"/><rect x="272" y="148" width="28" height="26"/><rect x="342" y="148" width="56" height="26"/><rect x="426" y="148" width="84" height="26"/><rect x="524" y="148" width="28" height="26"/><rect x="580" y="148" width="84" height="26"/><rect x="734" y="148" width="28" height="26"/></clipPath>
+  </defs>
+  <style>
+    .neon { animation: flicker 6s infinite steps(1, end); }
+    .shadow { fill: none; stroke: #7A1020; stroke-width: 1.6; stroke-linecap: square; }
+    .sub { font: 700 15px 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', monospace; fill: #FF8599; letter-spacing: 8px; word-spacing: 18px; }
+    .tag { font: 600 11px Consolas, 'DejaVu Sans Mono', monospace; fill: #6B6B78; letter-spacing: 2px; }
+    .scanline { animation: roll 8s linear infinite; }
+    /* Irregular off-beats mimic a failing neon tube instead of a uniform blink. */
+    @keyframes flicker {
+      0%, 18%, 22%, 60%, 63%, 100% { opacity: 1; }
+      19%, 61% { opacity: 0.35; }
+      20% { opacity: 0.85; }
+      62% { opacity: 0.6; }
+    }
+    @keyframes roll { from { transform: translateY(-40px); } to { transform: translateY(292px); } }
+    @media (prefers-reduced-motion: reduce) { .neon, .scanline { animation: none; } }
+  </style>
+
+  <rect width="866" height="292" rx="14" fill="#08080C"/>
+  <rect x="0.5" y="0.5" width="865" height="291" rx="14" fill="none" stroke="#E50914" stroke-opacity="0.45"/>
+
+  <path class="shadow" d="M76,54.2H85.8V70 M76,59.8H80.2V70 M244,54.2H253.8V70 M244,59.8H248.2V70 M314,54.2H323.8V70 M314,59.8H318.2V70 M398,54.2H407.8V70 M398,59.8H402.2V70 M510,54.2H519.8V70 M510,59.8H514.2V70 M552,54.2H561.8V70 M552,59.8H556.2V70 M594,54.2H603.8V70 M594,59.8H598.2V70 M678,54.2H687.8V70 M678,59.8H682.2V70 M720,54.2H729.8V70 M720,59.8H724.2V70 M804,54.2H813.8V70 M804,59.8H808.2V70 M80.2,70V96 M85.8,70V96 M202,80.2H192.2V96 M202,85.8H197.8V96 M202,80.2H216 M202,85.8H216 M216,80.2H230 M216,85.8H230 M258,80.2H267.8V96 M258,85.8H262.2V96 M328,80.2H337.8V96 M328,85.8H332.2V96 M402.2,70V96 M407.8,70V96 M454,80.2H444.2V96 M454,85.8H449.8V96 M454,80.2H468 M454,85.8H468 M468,80.2H482 M468,85.8H482 M482,80.2H496 M482,85.8H496 M496,80.2H510 M496,85.8H510 M519.8,70V85.8H510 M514.2,70V80.2H510 M556.2,70V96 M561.8,70V96 M598.2,70V96 M603.8,70V96 M682.2,70V96 M687.8,70V96 M696.2,70V85.8H706 M701.8,70V80.2H706 M734,80.2H743.8V96 M734,85.8H738.2V96 M804,80.2H794.2V96 M804,85.8H799.8V96 M813.8,70V85.8H804 M808.2,70V80.2H804 M80.2,96V122 M85.8,96V122 M262.2,96V122 M267.8,96V122 M314,106.2H304.2V122 M314,111.8H309.8V122 M342,106.2H351.8V122 M342,111.8H346.2V122 M402.2,96V122 M407.8,96V122 M444.2,96V122 M449.8,96V122 M556.2,96V122 M561.8,96V122 M598.2,96V122 M603.8,96V122 M682.2,96V122 M687.8,96V122 M710.2,96V111.8H720 M715.8,96V106.2H720 M790,106.2H780.2V122 M790,111.8H785.8V122 M799.8,96V111.8H790 M794.2,96V106.2H790 M80.2,122V148 M85.8,122V148 M202,132.2H192.2V148 M202,137.8H197.8V148 M202,132.2H216 M202,137.8H216 M216,132.2H230 M216,137.8H230 M262.2,122V148 M267.8,122V148 M304.2,122V148 M309.8,122V148 M318.2,122V137.8H328 M323.8,122V132.2H328 M356,132.2H365.8V148 M356,137.8H360.2V148 M402.2,122V148 M407.8,122V148 M444.2,122V148 M449.8,122V148 M556.2,122V148 M561.8,122V148 M598.2,122V148 M603.8,122V148 M682.2,122V148 M687.8,122V148 M724.2,122V137.8H734 M729.8,122V132.2H734 M776,132.2H766.2V148 M776,137.8H771.8V148 M785.8,122V137.8H776 M780.2,122V132.2H776 M146,158.2H155.8V174 M146,163.8H150.2V174 M192.2,148V174 M197.8,148V174 M262.2,148V174 M267.8,148V174 M304.2,148V174 M309.8,148V174 M332.2,148V163.8H342 M337.8,148V158.2H342 M402.2,148V174 M407.8,148V174 M416.2,148V163.8H426 M421.8,148V158.2H426 M510,158.2H519.8V174 M510,163.8H514.2V174 M556.2,148V174 M561.8,148V174 M570.2,148V163.8H580 M575.8,148V158.2H580 M678,158.2H668.2V174 M678,163.8H673.8V174 M687.8,148V163.8H678 M682.2,148V158.2H678 M766.2,148V174 M771.8,148V174 M52.2,174V189.8H62 M57.8,174V184.2H62 M62,184.2H76 M62,189.8H76 M76,184.2H90 M76,189.8H90 M90,184.2H104 M90,189.8H104 M104,184.2H118 M104,189.8H118 M118,184.2H132 M118,189.8H132 M132,184.2H146 M132,189.8H146 M155.8,174V189.8H146 M150.2,174V184.2H146 M164.2,174V189.8H174 M169.8,174V184.2H174 M174,184.2H188 M174,189.8H188 M197.8,174V189.8H188 M192.2,174V184.2H188 M234.2,174V189.8H244 M239.8,174V184.2H244 M244,184.2H258 M244,189.8H258 M267.8,174V189.8H258 M262.2,174V184.2H258 M276.2,174V189.8H286 M281.8,174V184.2H286 M286,184.2H300 M286,189.8H300 M309.8,174V189.8H300 M304.2,174V184.2H300 M346.2,174V189.8H356 M351.8,174V184.2H356 M356,184.2H370 M356,189.8H370 M370,184.2H384 M370,189.8H384 M384,184.2H398 M384,189.8H398 M407.8,174V189.8H398 M402.2,174V184.2H398 M430.2,174V189.8H440 M435.8,174V184.2H440 M440,184.2H454 M440,189.8H454 M454,184.2H468 M454,189.8H468 M468,184.2H482 M468,189.8H482 M482,184.2H496 M482,189.8H496 M496,184.2H510 M496,189.8H510 M519.8,174V189.8H510 M514.2,174V184.2H510 M528.2,174V189.8H538 M533.8,174V184.2H538 M538,184.2H552 M538,189.8H552 M561.8,174V189.8H552 M556.2,174V184.2H552 M584.2,174V189.8H594 M589.8,174V184.2H594 M594,184.2H608 M594,189.8H608 M608,184.2H622 M608,189.8H622 M622,184.2H636 M622,189.8H636 M636,184.2H650 M636,189.8H650 M650,184.2H664 M650,189.8H664 M673.8,174V189.8H664 M668.2,174V184.2H664 M738.2,174V189.8H748 M743.8,174V184.2H748 M748,184.2H762 M748,189.8H762 M771.8,174V189.8H762 M766.2,174V184.2H762"/>
+
+  <g class="neon" filter="url(#glow)" fill="url(#crimson)">
+    <rect x="48" y="44" width="28" height="26"/><rect x="174" y="44" width="70" height="26"/><rect x="272" y="44" width="42" height="26"/><rect x="370" y="44" width="28" height="26"/><rect x="426" y="44" width="84" height="26"/><rect x="524" y="44" width="28" height="26"/><rect x="566" y="44" width="28" height="26"/><rect x="650" y="44" width="28" height="26"/><rect x="692" y="44" width="28" height="26"/><rect x="776" y="44" width="28" height="26"/><rect x="48" y="70" width="28" height="26"/><rect x="160" y="70" width="28" height="26"/><rect x="230" y="70" width="28" height="26"/><rect x="272" y="70" width="56" height="26"/><rect x="370" y="70" width="28" height="26"/><rect x="412" y="70" width="28" height="26"/><rect x="524" y="70" width="28" height="26"/><rect x="566" y="70" width="28" height="26"/><rect x="650" y="70" width="28" height="26"/><rect x="706" y="70" width="28" height="26"/><rect x="762" y="70" width="28" height="26"/><rect x="48" y="96" width="28" height="26"/><rect x="160" y="96" width="98" height="26"/><rect x="272" y="96" width="28" height="26"/><rect x="314" y="96" width="28" height="26"/><rect x="370" y="96" width="28" height="26"/><rect x="412" y="96" width="28" height="26"/><rect x="524" y="96" width="28" height="26"/><rect x="566" y="96" width="28" height="26"/><rect x="650" y="96" width="28" height="26"/><rect x="720" y="96" width="56" height="26"/><rect x="48" y="122" width="28" height="26"/><rect x="160" y="122" width="28" height="26"/><rect x="230" y="122" width="28" height="26"/><rect x="272" y="122" width="28" height="26"/><rect x="328" y="122" width="28" height="26"/><rect x="370" y="122" width="28" height="26"/><rect x="412" y="122" width="28" height="26"/><rect x="524" y="122" width="28" height="26"/><rect x="566" y="122" width="28" height="26"/><rect x="650" y="122" width="28" height="26"/><rect x="734" y="122" width="28" height="26"/><rect x="48" y="148" width="98" height="26"/><rect x="160" y="148" width="28" height="26"/><rect x="230" y="148" width="28" height="26"/><rect x="272" y="148" width="28" height="26"/><rect x="342" y="148" width="56" height="26"/><rect x="426" y="148" width="84" height="26"/><rect x="524" y="148" width="28" height="26"/><rect x="580" y="148" width="84" height="26"/><rect x="734" y="148" width="28" height="26"/>
+  </g>
+
+  <g clip-path="url(#logoClip)">
+    <rect x="-220" y="44" width="200" height="156" fill="url(#sweep)">
+      <animate attributeName="x" values="-220;886" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text class="sub" x="433.0" y="248" text-anchor="middle">AFTER HOURS EDITION</text>
+  <text class="tag" x="433.0" y="274" text-anchor="middle">03:00 AM // LOCAL SILICON // NO CLOUD RENT</text>
+
+  <rect width="866" height="292" rx="14" fill="url(#scan)" pointer-events="none"/>
+  <rect class="scanline" x="0" y="0" width="866" height="40" fill="#E50914" fill-opacity="0.06"/>
+</svg>

@@ -8,10 +8,10 @@
 
 <div align="center">
 
-<img src="./docs/assets/chain_divider.gif" width="100%" height="9" alt="" />
+<img src="./assets/chain_divider.gif" width="100%" height="9" alt="" />
 
 <a href="https://github.com/Lanciuy">
-  <img src="./docs/assets/lanciuy_ascii.svg" width="100%" alt="LANCIUY // After Hours Edition" />
+  <img src="./assets/lanciuy_ascii.svg" width="100%" alt="LANCIUY // After Hours Edition" />
 </a>
 
 <details>
@@ -28,13 +28,13 @@
 
 </details>
 
-<img src="./docs/assets/chain_divider.gif" width="100%" height="9" alt="" />
+<img src="./assets/chain_divider.gif" width="100%" height="9" alt="" />
 
 <br/>
 
-<img src="./docs/assets/typing_stream_01.svg" alt="Lanciuy Identity Stream" />
+<img src="./assets/typing_stream_01.svg" alt="Lanciuy Identity Stream" />
 <br/>
-<img src="./docs/assets/typing_stream_02.svg" alt="Fleet Stream" />
+<img src="./assets/typing_stream_02.svg" alt="Fleet Stream" />
 
 <br/><br/>
 
@@ -47,7 +47,7 @@
 
 <!-- ============================== HERO MOOD ============================== -->
 
-<img src="./docs/assets/blinding_lights_tenor.gif" width="100%" alt="The Weeknd - Blinding Lights" />
+<img src="./assets/blinding_lights_tenor.gif" width="100%" alt="The Weeknd - Blinding Lights" />
 
 <sub>🎧 NOW PLAYING · THE WEEKND — BLINDING LIGHTS · 171 BPM · 03:00 AM</sub>
 
@@ -58,14 +58,14 @@
 <table>
   <tr>
     <td width="36%" align="center" valign="top">
-      <img src="./docs/assets/higuruma.gif" width="100%" alt="Higuruma verdict" />
+      <img src="./assets/higuruma.gif" width="100%" alt="Higuruma verdict" />
       <br/>
       <b>⚖️ VERDICT</b>
       <br/>
       <sub>GUILTY OF 3AM COMMITS.<br/>SENTENCE: SHIP IT ANYWAY.</sub>
     </td>
     <td width="28%" align="center" valign="top">
-      <img src="./docs/assets/cat_meme.gif" width="100%" alt="Night shift mascot" />
+      <img src="./assets/cat_meme.gif" width="100%" alt="Night shift mascot" />
       <br/>
       <b>🐈‍⬛ NIGHT SHIFT</b>
       <br/>
@@ -85,18 +85,18 @@
   </tr>
 </table>
 
-<img src="./docs/assets/chain_divider.gif" width="100%" height="9" alt="" />
+<img src="./assets/chain_divider.gif" width="100%" height="9" alt="" />
 
 <!-- ============================== FLAGSHIP ============================== -->
 
 <h3>⚡ TAKE MY HAND // FLAGSHIP</h3>
 
-<img src="./docs/assets/take_my_hand.png" width="100%" alt="Take my hand" />
+<img src="./assets/take_my_hand.png" width="100%" alt="Take my hand" />
 
 <br/><br/>
 
 <a href="https://github.com/Lanciuy/CLIPGO">
-  <img src="./docs/assets/dashboard_upgraded.png" width="100%" alt="CLIPGO 6.0 Studio Cockpit" />
+  <img src="./assets/dashboard_upgraded.png" width="100%" alt="CLIPGO 6.0 Studio Cockpit" />
 </a>
 
 <b>CLIPGO 6.0</b> · autonomous 9:16 video factory · 12 s NVENC export · 100% local GPU
@@ -118,7 +118,7 @@
   </tr>
 </table>
 
-<img src="./docs/assets/chain_divider.gif" width="100%" height="9" alt="" />
+<img src="./assets/chain_divider.gif" width="100%" height="9" alt="" />
 
 <!-- ============================== FLEET ============================== -->
 
@@ -163,7 +163,7 @@
   </tr>
 </table>
 
-<img src="./docs/assets/chain_divider.gif" width="100%" height="9" alt="" />
+<img src="./assets/chain_divider.gif" width="100%" height="9" alt="" />
 
 <!-- ============================== ARSENAL ============================== -->
 
@@ -192,14 +192,14 @@
 
 <table>
   <tr>
-    <td width="55%" align="center"><img src="./docs/assets/github_stats.svg" width="100%" alt="GitHub stats" /></td>
-    <td width="45%" align="center"><img src="./docs/assets/top_langs.svg" width="100%" alt="Top languages" /></td>
+    <td width="55%" align="center"><img src="./assets/github_stats.svg" width="100%" alt="GitHub stats" /></td>
+    <td width="45%" align="center"><img src="./assets/top_langs.svg" width="100%" alt="Top languages" /></td>
   </tr>
 </table>
 
-<img src="./docs/assets/bmw_after_hours.gif" width="100%" alt="Nocturnal drive" />
+<img src="./assets/bmw_after_hours.gif" width="100%" alt="Nocturnal drive" />
 
-<img src="./docs/assets/chain_divider.gif" width="100%" height="9" alt="" />
+<img src="./assets/chain_divider.gif" width="100%" height="9" alt="" />
 
 <!-- ============================== END OF SHIFT ============================== -->
 
@@ -209,7 +209,7 @@
 git clone https://github.com/Lanciuy/CLIPGO.git && cd CLIPGO && python main.py
 ```
 
-<img src="./docs/assets/cat_idle.gif" width="220" alt="End of shift" />
+<img src="./assets/cat_idle.gif" width="220" alt="End of shift" />
 
 <sub>zzz // end of shift · engineered after hours on local silicon 🩸</sub>
 
