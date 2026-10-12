@@ -72,9 +72,6 @@
         <li>Lebih demen ngulik <b>backend, AI automation, and high-performance pipelines</b> daripada debat styling.</li>
         <li>Pragmatic over hype: yang penting <b>kenceng, enteng, dan zero bloat</b>.</li>
       </ul>
-      <img src="https://img.shields.io/badge/KEY-D_MINOR-8B0000?style=flat-square" alt="D Minor" />
-      <img src="https://img.shields.io/badge/VIBE-MIDNIGHT_FLOW-E50914?style=flat-square" alt="Midnight Flow" />
-      <img src="https://img.shields.io/badge/CODE-CLEAN_ARCH-00E5FF?style=flat-square" alt="Clean Arch" />
     </td>
   </tr>
 </table>
