@@ -4,14 +4,14 @@
 <!-- 1. AFTER HOURS CYBER HERO BANNER (100% FULL-BLEED ULTRA-AESTHETIC)        -->
 <!-- ========================================================================= -->
 <a href="https://github.com/Lanciuy">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080C,30:250508,60:E50914,100:08080C&height=280&section=header&text=LANCIUY%20//%20AFTER%20HOURS&fontSize=62&animation=twinkling&fontAlignY=36&desc=SOVEREIGN%20AI%20%26%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20RTX%203050%20SILICON%20%E2%80%A2%20NOCTURNAL%20LABS&descSize=17&descAlignY=58&descAlign=50&descColor=FF8599" alt="LANCIUY After Hours Noir Banner" width="100%" style="display: block; border-radius: 14px;" />
+  <img src="./docs/assets/hero_banner.svg" alt="LANCIUY After Hours Noir Banner" width="100%" style="display: block; border-radius: 14px;" />
 </a>
 
 <table align="center" width="100%" style="border-collapse: collapse; margin-top: 10px;">
   <tr>
     <td bgcolor="#08080C" style="border: 1px solid rgba(229, 9, 20, 0.6); border-radius: 14px; padding: 0; box-shadow: 0 16px 50px rgba(229, 9, 20, 0.35); overflow: hidden;">
       <a href="https://github.com/Lanciuy">
-        <img src="https://i.giphy.com/media/MCGz3k4986N4c9gOeb/giphy.gif" alt="The Weeknd After Hours Sinister Grin" width="100%" height="220" style="display: block; width: 100%; object-fit: cover; border-radius: 13px;" />
+        <img src="./docs/assets/the_weeknd_after_hours.gif" alt="The Weeknd After Hours Sinister Grin" width="100%" height="220" style="display: block; width: 100%; object-fit: cover; border-radius: 13px;" />
       </a>
     </td>
   </tr>
@@ -36,17 +36,17 @@
 <!-- Dynamic Typing Stream 01: Persona & Identity -->
 <p align="center">
   <a href="https://github.com/Lanciuy">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&pause=1000&color=E50914&center=true&vCenter=true&width=760&lines=LANCIUY+%2F%2F+SOVEREIGN+AI+%26+SYSTEMS+ARCHITECT;3%3A00+AM+NOCTURNAL+SESSIONS+%E2%80%94+LOCAL+GPU+ENGINEERING;BLINDED+BY+THE+LIGHTS+%E2%80%94+CUDA+FP16+%26+NVENC+60+FPS;ZERO+CLOUD+RENT+%E2%80%A2+100%25+LOCAL+SILICON" alt="Lanciuy Identity Stream" />
+    <img src="./docs/assets/typing_stream_01.svg" alt="Lanciuy Identity Stream" />
   </a>
   <br/>
   <!-- Dynamic Typing Stream 02: Flagship Fleet in Motion -->
   <a href="https://github.com/Lanciuy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1200&color=FF8599&center=true&vCenter=true&width=760&lines=%E2%96%B6+CLIPGO+6.0+%E2%80%94+Autonomous+9%3A16+Video+Factory+%E2%80%A2+12s+NVENC;%E2%96%B6+BONSNAP+%E2%80%94+Multimodal+Gemini+Vision+OCR+%26+Groq+Agent;%E2%96%B6+CLINK+%E2%80%94+4-Tier+Stealth+Downloader+%26+Real-ESRGAN+AI;%E2%96%B6+WARNET_SYSTEM+%E2%80%94+Next-Gen+Esports+NetCafe+Monorepo;%E2%96%B6+MEMORY+MCP+%E2%80%A2+Cognitive+Graph+%E2%80%A2+Architecture+Index" alt="Fleet Stream" />
+    <img src="./docs/assets/typing_stream_02.svg" alt="Fleet Stream" />
   </a>
 </p>
 
 <!-- Neon Crimson Pulse Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+<img src="./docs/assets/crimson_divider.gif" width="100%" height="4" />
 
 <br/>
 
@@ -70,7 +70,7 @@
         <span style="font-family: monospace; font-size: 11px; color: #FF8599; font-weight: bold; letter-spacing: 1px;">
           🎧 NOW PLAYING: THE WEEKND &mdash; AFTER HOURS [06:01]
         </span>
-        <img src="https://i.giphy.com/media/l3vRfNA1p07f598v6/giphy.gif" width="130" height="24" alt="Audio Visualizer Equalizer" style="display: block; border-radius: 4px; object-fit: cover;" />
+        <img src="./docs/assets/audio_equalizer.gif" width="130" height="24" alt="Audio Visualizer Equalizer" style="display: block; border-radius: 4px; object-fit: cover;" />
       </div>
     </td>
   </tr>
@@ -81,7 +81,7 @@
 <br/>
 
 <!-- Neon Crimson Pulse Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+<img src="./docs/assets/crimson_divider.gif" width="100%" height="4" />
 
 <br/>
 
@@ -101,7 +101,7 @@
       <div style="font-family: monospace; font-size: 11px; font-weight: bold; color: #FF8599; margin-bottom: 8px;">
         ⚡ 01 // BLINDING LIGHTS
       </div>
-      <img src="https://i.giphy.com/media/XZO7e7aqzLPP1957z5/giphy.gif" width="100%" height="160" alt="Blinding Lights Flow" style="border-radius: 8px; display: block; object-fit: cover;" />
+      <img src="./docs/assets/the_weeknd_blinding_lights.gif" width="100%" height="160" alt="Blinding Lights Flow" style="border-radius: 8px; display: block; object-fit: cover;" />
       <div style="margin-top: 10px;">
         <img src="https://img.shields.io/badge/TEMPO-171_BPM-E50914?style=flat-square" alt="171 BPM" />
         <img src="https://img.shields.io/badge/SILICON-NVENC_60FPS-76B900?style=flat-square" alt="NVENC" />
@@ -111,7 +111,7 @@
       <div style="font-family: monospace; font-size: 11px; font-weight: 800; color: #E50914; margin-bottom: 8px;">
         🩸 02 // AFTER HOURS
       </div>
-      <img src="https://i.giphy.com/media/YQitDa4EPQacSC5E5l/giphy.gif" width="100%" height="160" alt="After Hours Elevator" style="border-radius: 8px; display: block; object-fit: cover;" />
+      <img src="./docs/assets/the_weeknd_after_hours.gif" width="100%" height="160" alt="After Hours Elevator" style="border-radius: 8px; display: block; object-fit: cover;" />
       <div style="margin-top: 10px;">
         <img src="https://img.shields.io/badge/KEY-D_MINOR-8B0000?style=flat-square" alt="D Minor" />
         <img src="https://img.shields.io/badge/SESSION-03:00_AM-white?style=flat-square" alt="03:00 AM" />
@@ -121,7 +121,7 @@
       <div style="font-family: monospace; font-size: 11px; font-weight: bold; color: #FFA700; margin-bottom: 8px;">
         🎲 03 // HEARTLESS
       </div>
-      <img src="https://i.giphy.com/media/lSnXdjZrmUompzat00/giphy.gif" width="100%" height="160" alt="Heartless Neon Drive" style="border-radius: 8px; display: block; object-fit: cover;" />
+      <img src="./docs/assets/the_weeknd_heartless.gif" width="100%" height="160" alt="Heartless Neon Drive" style="border-radius: 8px; display: block; object-fit: cover;" />
       <div style="margin-top: 10px;">
         <img src="https://img.shields.io/badge/VIBE-CYBER_STREET-FFA700?style=flat-square" alt="Streetwear" />
         <img src="https://img.shields.io/badge/CODE-CLEAN_ARCH-00E5FF?style=flat-square" alt="Clean Arch" />
@@ -133,7 +133,7 @@
 <br/>
 
 <!-- Neon Crimson Pulse Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+<img src="./docs/assets/crimson_divider.gif" width="100%" height="4" />
 
 <br/>
 
@@ -159,7 +159,7 @@
         </span>
       </div>
       <a href="https://github.com/Lanciuy/CLIPGO">
-        <img src="docs/assets/dashboard_upgraded.png" alt="CLIPGO Upgraded Studio Cockpit" width="100%" style="border-radius: 10px; border: 1px solid #282C34; display: block;" />
+        <img src="./docs/assets/dashboard_upgraded.png" alt="CLIPGO Upgraded Studio Cockpit" width="100%" style="border-radius: 10px; border: 1px solid #282C34; display: block;" />
       </a>
       <div style="margin-top: 14px; display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
         <img src="https://img.shields.io/badge/OPENCV_YUNET-128.4_FPS-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="YuNet" />
@@ -199,7 +199,7 @@
 <br/>
 
 <!-- Neon Crimson Pulse Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+<img src="./docs/assets/crimson_divider.gif" width="100%" height="4" />
 
 <br/>
 
@@ -287,7 +287,7 @@
 <br/>
 
 <!-- Neon Crimson Pulse Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+<img src="./docs/assets/crimson_divider.gif" width="100%" height="4" />
 
 <br/>
 
@@ -325,7 +325,7 @@
 <br/>
 
 <!-- Neon Crimson Pulse Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+<img src="./docs/assets/crimson_divider.gif" width="100%" height="4" />
 
 <br/>
 
@@ -341,21 +341,14 @@
 
 <table align="center" border="0" style="border-collapse: separate; border-spacing: 12px;">
   <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/Lanciuy">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lanciuy&theme=radical&background=08080C&ring=E50914&fire=E50914&currStreakLabel=FF8599&sideLabels=FFFFFF" alt="Lanciuy Streak Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Lanciuy">
-        <img src="https://github-readme-stats.vercel.app/api?username=Lanciuy&show_icons=true&theme=radical&hide_border=true&title_color=E50914&text_color=E6EDF3&icon_color=FF8599&bg_color=08080C" alt="Lanciuy GitHub Stats" />
+        <img src="./docs/assets/github_stats.svg" alt="Lanciuy GitHub Stats" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Lanciuy">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanciuy&layout=compact&theme=radical&hide_border=true&title_color=E50914&text_color=E6EDF3&bg_color=08080C" alt="Lanciuy Top Languages" />
+        <img src="./docs/assets/top_langs.svg" alt="Lanciuy Top Languages" />
       </a>
     </td>
   </tr>
@@ -370,7 +363,7 @@
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
     <td bgcolor="#08080C" style="border: 1px solid rgba(229, 9, 20, 0.5); border-radius: 12px; padding: 0; overflow: hidden;">
-      <img src="https://i.giphy.com/media/3ov9jOJSQhGCacs2Mu/giphy.gif" width="100%" height="180" alt="Synthwave Nocturnal Drive" style="display: block; width: 100%; object-fit: cover; border-radius: 11px;" />
+      <img src="./docs/assets/bmw_after_hours.gif" width="100%" height="180" alt="Synthwave Nocturnal Drive" style="display: block; width: 100%; object-fit: cover; border-radius: 11px;" />
     </td>
   </tr>
 </table>
@@ -380,7 +373,7 @@
 <br/>
 
 <!-- Neon Crimson Pulse Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+<img src="./docs/assets/crimson_divider.gif" width="100%" height="4" />
 
 <br/>
 
@@ -401,7 +394,7 @@ git clone https://github.com/Lanciuy/CLIPGO.git && cd CLIPGO && python main.py
 <br/>
 
 <!-- Neon Crimson Pulse Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+<img src="./docs/assets/crimson_divider.gif" width="100%" height="4" />
 
 <br/>
 
