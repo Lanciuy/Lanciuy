@@ -10,7 +10,7 @@
 <img src="./assets/chain_divider.gif" width="100%" height="9" alt="" />
 
 <a href="https://github.com/Lanciuy">
-  <img src="./assets/lanciuy_ascii.svg" width="100%" alt="LANCIUY" />
+  <img src="./assets/lanciuy_banner.svg" width="100%" alt="LANCIUY" />
 </a>
 
 <details>
