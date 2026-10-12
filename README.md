@@ -1,13 +1,17 @@
 <div align="center">
 
 <!-- ========================================================================= -->
-<!-- 1. RED GRIN ANIMATED CYBER HERO BANNER (100% FULL-BLEED WIDTH)            -->
+<!-- 1. AFTER HOURS CYBER HERO BANNER (100% FULL-BLEED ULTRA-AESTHETIC)        -->
 <!-- ========================================================================= -->
-<table align="center" width="100%" style="border-collapse: collapse; margin: 0; padding: 0;">
+<a href="https://github.com/Lanciuy">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080C,30:250508,60:E50914,100:08080C&height=280&section=header&text=LANCIUY%20//%20AFTER%20HOURS&fontSize=62&animation=twinkling&fontAlignY=36&desc=SOVEREIGN%20AI%20%26%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20RTX%203050%20SILICON%20%E2%80%A2%20NOCTURNAL%20LABS&descSize=17&descAlignY=58&descAlign=50&descColor=FF8599" alt="LANCIUY After Hours Noir Banner" width="100%" style="display: block; border-radius: 14px;" />
+</a>
+
+<table align="center" width="100%" style="border-collapse: collapse; margin-top: 10px;">
   <tr>
-    <td bgcolor="#08080C" style="border: 1px solid rgba(229, 9, 20, 0.7); border-radius: 14px; padding: 0; box-shadow: 0 20px 60px rgba(229, 9, 20, 0.45); overflow: hidden;">
+    <td bgcolor="#08080C" style="border: 1px solid rgba(229, 9, 20, 0.6); border-radius: 14px; padding: 0; box-shadow: 0 16px 50px rgba(229, 9, 20, 0.35); overflow: hidden;">
       <a href="https://github.com/Lanciuy">
-        <img src="https://discordpfp.gg/api/assets/red-grin/preview?variant=full&adult=1&animated=1" alt="LANCIUY Red Grin Animated Cyber Banner" width="100%" style="display: block; width: 100%; border-radius: 13px;" />
+        <img src="https://i.giphy.com/media/MCGz3k4986N4c9gOeb/giphy.gif" alt="The Weeknd After Hours Sinister Grin" width="100%" height="220" style="display: block; width: 100%; object-fit: cover; border-radius: 13px;" />
       </a>
     </td>
   </tr>
@@ -46,18 +50,18 @@
 
 <br/>
 
-<!-- Identity Badges Cluster -->
+<!-- Identity Badges Cluster (URL-encoded bullets for 100% render reliability) -->
 <p align="center">
   <a href="https://github.com/Lanciuy"><img src="https://img.shields.io/badge/GITHUB-LANCIUY-14070B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Lanciuy" /></a>
   <img src="https://komarev.com/ghpvc/?username=Lanciuy&label=NIGHT_DRIVE_PULSE&color=E50914&style=for-the-badge" alt="Night Drive Pulse" />
-  <img src="https://img.shields.io/badge/HARDWARE-RTX_3050_•_CUDA_12.4-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Hardware" />
-  <img src="https://img.shields.io/badge/PIPELINE-NVENC_60FPS_•_FP16-E50914?style=for-the-badge&logo=fastapi&logoColor=white" alt="Pipeline" />
+  <img src="https://img.shields.io/badge/HARDWARE-RTX_3050_%E2%80%A2_CUDA_12.4-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Hardware" />
+  <img src="https://img.shields.io/badge/PIPELINE-NVENC_60FPS_%E2%80%A2_FP16-E50914?style=for-the-badge&logo=fastapi&logoColor=white" alt="Pipeline" />
   <img src="https://img.shields.io/badge/UI_FPS-120_LIQUID_GLASS-00E5FF?style=for-the-badge&logo=framer&logoColor=white" alt="UI" />
   <img src="https://img.shields.io/badge/LICENSE-MIT_SOVEREIGN-white?style=for-the-badge&logo=opensourceinitiative&logoColor=black" alt="License" />
 </p>
 
 <!-- ========================================================================= -->
-<!-- 3. NOCTURNAL AUDIO DECK HUD (WITH ANIMATED EQUALIZER)                     -->
+<!-- 3. NOCTURNAL AUDIO DECK HUD (WITH HIGH-SPEED ANIMATED EQUALIZER)          -->
 <!-- ========================================================================= -->
 <table align="center" width="100%">
   <tr>
@@ -66,7 +70,7 @@
         <span style="font-family: monospace; font-size: 11px; color: #FF8599; font-weight: bold; letter-spacing: 1px;">
           🎧 NOW PLAYING: THE WEEKND &mdash; AFTER HOURS [06:01]
         </span>
-        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-497f-bda1-4aa25d03093b.gif" width="120" height="20" alt="Audio Visualizer Equalizer" />
+        <img src="https://i.giphy.com/media/l3vRfNA1p07f598v6/giphy.gif" width="130" height="24" alt="Audio Visualizer Equalizer" style="display: block; border-radius: 4px; object-fit: cover;" />
       </div>
     </td>
   </tr>
@@ -82,7 +86,7 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 4. CINEMATIC AFTER HOURS TRILOGY MOODBOARD (3 ANIMATED GIFS)              -->
+<!-- 4. CINEMATIC AFTER HOURS TRILOGY MOODBOARD (HIGH-RES GIPHY CDN ASSETS)    -->
 <!-- ========================================================================= -->
 
 <div align="center">
@@ -97,7 +101,7 @@
       <div style="font-family: monospace; font-size: 11px; font-weight: bold; color: #FF8599; margin-bottom: 8px;">
         ⚡ 01 // BLINDING LIGHTS
       </div>
-      <img src="./docs/assets/the_weeknd_blinding_lights.gif" width="100%" alt="Blinding Lights Flow" style="border-radius: 8px; display: block;" />
+      <img src="https://i.giphy.com/media/XZO7e7aqzLPP1957z5/giphy.gif" width="100%" height="160" alt="Blinding Lights Flow" style="border-radius: 8px; display: block; object-fit: cover;" />
       <div style="margin-top: 10px;">
         <img src="https://img.shields.io/badge/TEMPO-171_BPM-E50914?style=flat-square" alt="171 BPM" />
         <img src="https://img.shields.io/badge/SILICON-NVENC_60FPS-76B900?style=flat-square" alt="NVENC" />
@@ -107,7 +111,7 @@
       <div style="font-family: monospace; font-size: 11px; font-weight: 800; color: #E50914; margin-bottom: 8px;">
         🩸 02 // AFTER HOURS
       </div>
-      <img src="./docs/assets/the_weeknd_after_hours.gif" width="100%" alt="After Hours Elevator" style="border-radius: 8px; display: block;" />
+      <img src="https://i.giphy.com/media/YQitDa4EPQacSC5E5l/giphy.gif" width="100%" height="160" alt="After Hours Elevator" style="border-radius: 8px; display: block; object-fit: cover;" />
       <div style="margin-top: 10px;">
         <img src="https://img.shields.io/badge/KEY-D_MINOR-8B0000?style=flat-square" alt="D Minor" />
         <img src="https://img.shields.io/badge/SESSION-03:00_AM-white?style=flat-square" alt="03:00 AM" />
@@ -117,7 +121,7 @@
       <div style="font-family: monospace; font-size: 11px; font-weight: bold; color: #FFA700; margin-bottom: 8px;">
         🎲 03 // HEARTLESS
       </div>
-      <img src="./docs/assets/the_weeknd_heartless.gif" width="100%" alt="Heartless Neon Drive" style="border-radius: 8px; display: block;" />
+      <img src="https://i.giphy.com/media/lSnXdjZrmUompzat00/giphy.gif" width="100%" height="160" alt="Heartless Neon Drive" style="border-radius: 8px; display: block; object-fit: cover;" />
       <div style="margin-top: 10px;">
         <img src="https://img.shields.io/badge/VIBE-CYBER_STREET-FFA700?style=flat-square" alt="Streetwear" />
         <img src="https://img.shields.io/badge/CODE-CLEAN_ARCH-00E5FF?style=flat-square" alt="Clean Arch" />
@@ -155,7 +159,7 @@
         </span>
       </div>
       <a href="https://github.com/Lanciuy/CLIPGO">
-        <img src="./frontend/public/dashboard_upgraded.png" alt="CLIPGO Upgraded Studio Cockpit" width="100%" style="border-radius: 10px; border: 1px solid #282C34; display: block;" />
+        <img src="docs/assets/dashboard_upgraded.png" alt="CLIPGO Upgraded Studio Cockpit" width="100%" style="border-radius: 10px; border: 1px solid #282C34; display: block;" />
       </a>
       <div style="margin-top: 14px; display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
         <img src="https://img.shields.io/badge/OPENCV_YUNET-128.4_FPS-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="YuNet" />
@@ -326,14 +330,18 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 8. REALTIME GITHUB TELEMETRY & STREAK HUD                                 -->
+<!-- 8. REALTIME GITHUB TELEMETRY & NOCTURNAL METRICS HUD                      -->
 <!-- ========================================================================= -->
 
 <div align="center">
 
-<table align="center" border="0">
+<p style="font-family: monospace; font-size: 13px; font-weight: 800; color: #E50914; letter-spacing: 2px;">
+  📊 REALTIME GITHUB TELEMETRY
+</p>
+
+<table align="center" border="0" style="border-collapse: separate; border-spacing: 12px;">
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://github.com/Lanciuy">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lanciuy&theme=radical&background=08080C&ring=E50914&fire=E50914&currStreakLabel=FF8599&sideLabels=FFFFFF" alt="Lanciuy Streak Stats" />
       </a>
@@ -344,6 +352,8 @@
       <a href="https://github.com/Lanciuy">
         <img src="https://github-readme-stats.vercel.app/api?username=Lanciuy&show_icons=true&theme=radical&hide_border=true&title_color=E50914&text_color=E6EDF3&icon_color=FF8599&bg_color=08080C" alt="Lanciuy GitHub Stats" />
       </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Lanciuy">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanciuy&layout=compact&theme=radical&hide_border=true&title_color=E50914&text_color=E6EDF3&bg_color=08080C" alt="Lanciuy Top Languages" />
       </a>
@@ -354,15 +364,16 @@
 <br/>
 
 <p style="font-family: monospace; font-size: 11px; color: #8B949E; margin-bottom: 8px;">
-  🐍 NOCTURNAL COMMIT MATRIX
+  🌃 NOCTURNAL SYNTHWAVE DRIVE // COMMIT MATRIX
 </p>
 
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lanciuy/Lanciuy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lanciuy/Lanciuy/output/github-contribution-grid-snake.svg">
-  <img alt="Lanciuy GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Lanciuy/Lanciuy/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td bgcolor="#08080C" style="border: 1px solid rgba(229, 9, 20, 0.5); border-radius: 12px; padding: 0; overflow: hidden;">
+      <img src="https://i.giphy.com/media/3ov9jOJSQhGCacs2Mu/giphy.gif" width="100%" height="180" alt="Synthwave Nocturnal Drive" style="display: block; width: 100%; object-fit: cover; border-radius: 11px;" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
