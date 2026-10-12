@@ -48,20 +48,6 @@
 
 <img src="./assets/blinding_lights_tenor.gif" width="100%" alt="The Weeknd - Blinding Lights" />
 
-<br/><br/>
-
-<!-- Spotify Now Playing Deck: Click card to stream instantly on Spotify -->
-<a href="https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/spotify_player.svg" width="100%" alt="Now Playing: The Weeknd - After Hours on Spotify" />
-</a>
-
-<p align="center">
-  <a href="https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ"><img src="https://img.shields.io/badge/SPOTIFY-PLAY_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play on Spotify" /></a>
-  <a href="./assets/spotify_player_clip.mp4"><img src="https://img.shields.io/badge/DIRECT_STREAM-AFTER__HOURS__MP4-121212?style=for-the-badge&logo=quicktime&logoColor=1DB954" alt="Play MP4 Directly" /></a>
-  <img src="https://img.shields.io/badge/SYNTH_DROP-4%3A20_OUTRO-76B900?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Outro Drop" />
-</p>
-
-<br/>
 
 <!-- ============================== PERSONA TRIAD ============================== -->
 
