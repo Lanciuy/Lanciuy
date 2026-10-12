@@ -50,15 +50,15 @@
 
 <br/><br/>
 
-<!-- Nocturnal Cyber Audio Deck: Click anywhere to stream track -->
-<a href="https://youtu.be/8BexTnIR8lo" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/audio_player.svg" width="100%" alt="Play The Weeknd - After Hours Outro on YouTube" />
+<!-- Spotify Now Playing Deck: Click card to stream instantly on Spotify -->
+<a href="https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/spotify_player.svg" width="100%" alt="Now Playing: The Weeknd - After Hours on Spotify" />
 </a>
 
 <p align="center">
-  <a href="https://youtu.be/8BexTnIR8lo"><img src="https://img.shields.io/badge/YOUTUBE-LISTEN_ON_REPEAT-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Play on YouTube" /></a>
-  <img src="https://img.shields.io/badge/TRACK-AFTER_HOURS_OUTRO-E50914?style=for-the-badge&logo=applemusic&logoColor=white" alt="Track" />
-  <img src="https://img.shields.io/badge/SYNTH-3%3A00_AM_DROP-76B900?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Drop" />
+  <a href="https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ"><img src="https://img.shields.io/badge/SPOTIFY-PLAY_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play on Spotify" /></a>
+  <a href="./assets/spotify_player_clip.mp4"><img src="https://img.shields.io/badge/DIRECT_STREAM-AFTER__HOURS__MP4-121212?style=for-the-badge&logo=quicktime&logoColor=1DB954" alt="Play MP4 Directly" /></a>
+  <img src="https://img.shields.io/badge/SYNTH_DROP-4%3A20_OUTRO-76B900?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Outro Drop" />
 </p>
 
 <br/>
