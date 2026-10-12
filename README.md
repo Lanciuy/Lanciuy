@@ -105,10 +105,10 @@
         Beberapa hal yang sempet gue racik belakangan ini (purely buat testing limits dan explore tech stack baru, zero oversharing):
       </p>
       <ul>
-        <li><b>Video Automation Engine</b> — Pipeline clipping &amp; face-tracking video otomatis berbasis hardware encoder.</li>
-        <li><b>Multimodal OCR Agent</b> — Document &amp; receipt parser via vision AI + reasoning gateway.</li>
-        <li><b>Stealth Downloader</b> — Media isolation &amp; upscaler toolchain.</li>
-        <li><b>Cognitive Tools</b> — Graph indexer &amp; memory system buat AI agent orchestration.</li>
+        <li><b>Video Automation Engine</b> - Pipeline clipping &amp; face-tracking video otomatis berbasis hardware encoder.</li>
+        <li><b>Multimodal OCR Agent</b> - Document &amp; receipt parser via vision AI + reasoning gateway.</li>
+        <li><b>Stealth Downloader</b> - Media isolation &amp; upscaler toolchain.</li>
+        <li><b>Cognitive Tools</b> - Graph indexer &amp; memory system buat AI agent orchestration.</li>
       </ul>
     </td>
   </tr>
